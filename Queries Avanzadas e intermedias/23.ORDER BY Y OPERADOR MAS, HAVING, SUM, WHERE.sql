@@ -1,3 +1,5 @@
+--solucion 1---
+
 SELECT  ProductID, ProductName, UnitsInStock,
   ReorderLevel,  UnitsOnOrder,Discontinued,
     (UnitsInStock + UnitsOnOrder) as SumCheck
@@ -9,7 +11,7 @@ SELECT  ProductID, ProductName, UnitsInStock,
 
 
 		   
-
+--solucion 2---
 SELECT  ProductID, ProductName, UnitsInStock,
   ReorderLevel,  UnitsOnOrder,Discontinued,
     sum(UnitsInStock) + sum(UnitsOnOrder) as SumCheck
@@ -20,3 +22,5 @@ SELECT  ProductID, ProductName, UnitsInStock,
                   ReorderLevel,  UnitsOnOrder,Discontinued
 				    having sum(UnitsInStock) + sum(UnitsOnOrder)<= ReorderLevel
 			          order by ProductID
+
+--@rikardoroa

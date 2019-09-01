@@ -1,4 +1,4 @@
-
+---solucion--
 SELECT * FROM(
 (SELECT Customers.CustomerID AS Customers_ID
       FROM Customers) AS P
@@ -9,3 +9,6 @@ SELECT * FROM(
 			  )
 			   WHERE R.CustomerID  IS NULL
 			   ORDER BY R.CustomerID DESC
+
+
+---@rikardoroa

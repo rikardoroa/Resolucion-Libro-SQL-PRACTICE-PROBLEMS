@@ -1,3 +1,5 @@
+---solucion---
+
 SELECT Employees.EmployeeID,LastName, Orders.OrderID,
    ProductName,Quantity
       FROM Employees
@@ -8,4 +10,6 @@ SELECT Employees.EmployeeID,LastName, Orders.OrderID,
 			    INNER JOIN Products on
 			      OrderDetails.ProductID = Products.ProductID
 				    Order by OrderID , Products.ProductID ASC
+
+---@rikardoroa
    
