@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripts de SQLServer3">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-TUP82C7:sa">
+          <Created>2019-08-16T18:47:56.8445237-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-TUP82C7</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>NorthWind</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT , WHERE 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT , WHERE 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT, WHERE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT, WHERE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT SUBQUERY CON WHERE 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT SUBQUERY CON WHERE 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON WHERE Y LIKE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON WHERE Y LIKE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON WHERE Y LIKE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON WHERE Y LIKE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON WHERE LIKE Y OR.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON WHERE LIKE Y OR.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON WHERE  E IN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON WHERE  E IN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON CAST Y CONVERT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON CAST Y CONVERT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON CONCAT Y +.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON CONCAT Y +.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT CON ORDER BY Y  MULTIPLICACION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT CON ORDER BY Y  MULTIPLICACION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT Y COUNT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT Y COUNT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>MIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GROUP BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>GROUP BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT Y GROUP BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>COUNT Y GROUP BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INNER JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>INNER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INNER JOIN CON ORDER BY Y WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>INNER JOIN CON ORDER BY Y WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INNER JOIN , COUNT, ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>INNER JOIN , COUNT, ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT, ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>COUNT, ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ORDER BY Y OPERADOR MAS, HAVING, SUM, WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ORDER BY Y OPERADOR MAS, HAVING, SUM, WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CASE EN ORDER BY Y COALESCE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CASE EN ORDER BY Y COALESCE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DECLARE, DATEADD, MAX, WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DECLARE, DATEADD, MAX, WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MULTIPLE INNER JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>MULTIPLE INNER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LEFT JOIN, IS NULL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>LEFT JOIN, IS NULL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT SUBQUERY , LEFT JOIN, ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT SUBQUERY , LEFT JOIN, ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DATEPART,INNER JOIN, SUM,STORED PROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DATEPART,INNER JOIN, SUM,STORED PROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SUM, INNER JOIN, DATE, DISCOUNT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SUM, INNER JOIN, DATE, DISCOUNT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SUM,GROUP BY, HAVING, INNER JOIN, DATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SUM,GROUP BY, HAVING, INNER JOIN, DATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TOP,AVG,DATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TOP,AVG,DATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TOP Y AVG.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TOP Y AVG.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WHERE Y EL OPERADOR MENOR QUE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>WHERE Y EL OPERADOR MENOR QUE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
